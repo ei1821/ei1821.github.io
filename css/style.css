@@ -1,5 +1,4 @@
 .products {
-    height: 100px;
-    width: 100px;
     border: 1px solid #ccc;
+    aspect-ratio: 5 / 3;
 }
